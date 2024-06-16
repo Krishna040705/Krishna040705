@@ -36,4 +36,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna040705&" alt="krishna040705" /></p>
 
-<h1><center>You can contact me on my Linkedin / Mail id </center></h1>
+<h1 id="head"><center>You can contact me on my Linkedin / Mail id </center></h1>
+<style>
+#head{
+  color: Pink
+}  
+</style>
