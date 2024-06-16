@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna040705&show_icons=true&locale=en" alt="krishna040705" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna040705&" alt="krishna040705" /></p>
+
+<h1><center>You can contact me on my Linkedin / Mail id </center></h1>
