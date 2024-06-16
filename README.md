@@ -1,3 +1,6 @@
+<style background color="White">
+  
+</style>
 <h1 align="center">Hi 👋, I'm Keerti Krishna Sreenivas S</h1>
 <h3 align="center">A passionate developer from India</h3>
 
