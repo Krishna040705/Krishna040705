@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm ![image](https://github.com/user-attachments/assets/956eeff5-b722-4e68-a4be-b94acb74ef8c)
+<h1 align="center">Hi 👋, I'm ! 𝒦𝐸𝐸𝑅𝒯𝐼 𝒦𝑅𝐼𝒮𝐻𝒩𝒜 𝒮𝑅𝐸𝐸𝒩𝐼𝒱𝒜𝒮 𝒮
 </h1>
 <h3 align="center">🌱 Building My Path in Full Stack Development 💻</h3>
 
