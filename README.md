@@ -1,5 +1,5 @@
 
-<h1 align="center">Namaste 🙏, I'm ! 𝒦𝐸𝐸𝑅𝒯𝐼 𝒦𝑅𝐼𝒮𝐻𝒩𝒜 𝒮𝑅𝐸𝐸𝒩𝐼𝒱𝒜𝒮 𝒮
+<h1 align="center">Namaste 🙏, I'm ! 𝒦𝐸𝐸𝑅𝒯𝐼  𝒦𝑅𝐼𝒮𝐻𝒩𝒜  𝒮𝑅𝐸𝐸𝒩𝐼𝒱𝒜𝒮 𝒮
 </h1>
 <h3 align="center">🌱 Building My Path in Full Stack Development 💻</h3>
 
