@@ -1,50 +1,5 @@
- <style>
-        body {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-        }
-        h1 {
-            font-size: 2.5rem;
-            color: #333;
-            white-space: nowrap;
-            overflow: hidden;
-            border-right: 3px solid #333;
-            animation: blink-caret 0.6s step-end infinite;
-            text-align: center;
-        }
-        h3 {
-            margin-top: 10px;
-            color: #555;
-        }
-        @keyframes blink-caret {
-            from { border-color: transparent; }
-            to { border-color: #333; }
-        }
-    </style>
- <h1 id="autoWrite"></h1>
-    <h3 align="center">A passionate developer from India</h3>
-    <script>
-        const text = "Hi 👋, I'm 🅺🅴🅴🆁🆃🅸 🅺🆁🅸🆂🅷🅽🅰🆂🆁🅴🅴🅽🅸🆅🅰🆂 🆂";
-        const speed = 100; // Speed in milliseconds
-        let i = 0;
 
-        function typeWriter() {
-            if (i < text.length) {
-                document.getElementById("autoWrite").textContent += text.charAt(i);
-                i++;
-                setTimeout(typeWriter, speed);
-            }
-        }
-
-        // Start the typing effect on page load
-        window.onload = typeWriter;
-    </script>
+<h1 align="center">Hi 👋, I'm 🅺🅴🅴🆁🆃🅸 ​ 🅺🆁🅸🆂🅷🅽🅰🆂🆁🅴🅴🅽🅸🆅🅰🆂 ​ 🆂</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna040705&label=Profile%20views&color=0e75b6&style=flat" alt="krishna040705" /> </p>
