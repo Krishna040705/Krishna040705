@@ -1,58 +1,63 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7F00FF&width=500&lines=Namaste+🙏,+I'm+Keerti+Krishna;Full-Stack+Alchemist✨;Turning+Ideas+into+Pixel+Perfection" alt="Typing Animation" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF7F50&center=true&vCenter=true&width=600&lines=Namaste+🙏,+I'm+Keerti+Krishna;Full-Stack+Developer+💻;Open-Source+Enthusiast+✨;Coffee+→+Code+Alchemist+☕" alt="Typing Animation" />
+  </a>
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/krishna040705/krishna040705/main/snake.svg" alt="Snake eating contributions" /> 
+  <img src="https://komarev.com/ghpvc/?username=krishna040705&label=Profile+Views&color=00CED1&style=flat-square" alt="Visitor Counter"/> 
+  <a href="https://twitter.com/keertikrishnas">
+    <img src="https://img.shields.io/twitter/follow/keertikrishnas?style=social" alt="Twitter Follow"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 **Featured Projects**  
+### 🌟 **Featured Projects**
 <div align="center">
   
-  | [![Portfolio](https://custom-icon-badges.demolab.com/badge/✨_My_Portfolio-FF6B6B?style=for-the-badge&logo=globe)](https://skks.netlify.app/) | [![Climate App](https://custom-icon-badges.demolab.com/badge/🌦️_Climate_App-4ECDC4?style=for-the-badge&logo=cloud)](https://climate25.netlify.app/) |
+  | [![Portfolio](https://img.shields.io/badge/🚀_My_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://skks.netlify.app/) | [![Climate App](https://img.shields.io/badge/🌤️_Climate_App-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://climate25.netlify.app/) |
   |---|---|
-  | **Modern Portfolio** with voice commands & 3D effects | **Real-time Weather App** with dynamic visuals |
+  | **Interactive portfolio** with voice commands | **Real-time weather dashboard** with APIs |
 
 </div>
 
 ---
 
-### 🛠️ **Tech Stack**  
+### 🛠️ **Tech Stack**
 <p align="center">
-  <!-- Auto-generated tech icons with shields.io -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 ---
 
-### 📊 **GitHub Analytics**  
+### 📊 **GitHub Stats**
 <div align="center">
   
-  | ![Stats](https://github-readme-stats.vercel.app/api?username=krishna040705&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![Streak](https://streak-stats.demolab.com?user=krishna040705&theme=radical&hide_border=true) |
+  | <a href="https://github.com/krishna040705"><img src="https://github-readme-stats.vercel.app/api?username=krishna040705&show_icons=true&theme=radical&hide_border=true" alt="Stats"/></a> | <a href="https://github.com/krishna040705"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna040705&theme=radical&hide_border=true" alt="Streak"/></a> |
   |---|---|
-  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna040705&layout=compact&theme=radical&hide_border=true) | ![Trophies](https://github-profile-trophy.vercel.app/?username=krishna040705&theme=radical&no-frame=true) |
+  
+  <a href="https://github.com/krishna040705"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna040705&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/></a>
 
 </div>
 
 ---
 
-### 🌟 **Let's Collaborate!**  
+### 📫 **Connect With Me**
 <p align="center">
   <a href="mailto:keertikrishnasreenivas@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/keertikrishnas">
-    <img src="https://img.shields.io/badge/Tweet_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
@@ -60,6 +65,6 @@
 
 <div align="center">
   
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&font=Roboto)
-  
+  ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 </div>
