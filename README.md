@@ -4,8 +4,8 @@
 
 
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Full-Stack+Developer;Code+Alchemist+%F0%9F%A7%9A%E2%99%82%EF%B8%8F;Tech+Explorer+%F0%9F%94%A7&background=0000FF00" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=🚀+Aspiring+Full+Stack+Developer;🧠+Passionate+about+Tech+and+Innovation;👨‍💻+Building+Projects+that+Solve+Real+Problems;💡+Creative+Thinker+%7C+Problem+Solver;🌐+Exploring+the+World+of+Web+and+AI&background=0000FF00" alt="Typing SVG" />
+</div>
 
 
   [![Visitors](https://komarev.com/ghpvc/?username=krishna040705&label=Profile+Views&color=00FF00&style=flat-square)]()
