@@ -1,12 +1,13 @@
-# 💎 Keerti Krishna's Hyper-Enhanced README 💎
+# 🔥 Keerti Krishna's Power README 🔥
 
 <div align="center">
   
-  ![Dynamic Header](https://github-readme-header.vercel.app/api?username=krishna040705&bg_color=30,8E2DE2,4A00E0&text_color=ffffff&title=Full-Stack%20Developer&desc=Turning%20Coffee%20Into%20Code%20Since%202023&icon=github)
+  ### 🚀 Full-Stack Developer | Code Alchemist | Tech Explorer
+  
+  [![Visitors](https://komarev.com/ghpvc/?username=krishna040705&label=Profile+Views&color=00FF00&style=flat-square)]()
+  [![Twitter](https://img.shields.io/twitter/follow/keertikrishnas?style=social)](https://twitter.com/keertikrishnas)
 
-</div>
-
----
+</div
 
 ## � **Digital Presence**
 <p align="center">
