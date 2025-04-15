@@ -1,16 +1,25 @@
-<h1 align="center">Namaste 🙏, I'm ! 𝒦𝐸𝐸𝑅𝒯𝐼  𝒦𝑅𝐼𝒮𝐻𝒩𝒜  𝒮𝑅𝐸𝐸𝒩𝐼𝒱𝒜𝒮 𝒮
+<h1 align="center">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <img src="https://api.iconify.design/noto-v1/potted-plant.svg?width=50&height=50" alt="Left Flower Pot" />
+    Namaste 🙏, I'm ! 𝒦𝐸𝐸𝑅𝒯𝐼 𝒦𝑅𝐼𝒮𝐻𝒩𝒜 𝒮𝑅𝐸𝐸𝒩𝐼𝒱𝒜𝒮 𝒮
+    <img src="https://api.iconify.design/noto-v1/potted-plant.svg?width=50&height=50" alt="Right Flower Pot" />
+  </div>
 </h1>
 
-
 <div align="center">
-<h3 align="center">🌱 Building My Path in Full Stack Development 💻</h3>
-
+  <h3 align="center">🌱 Building My Path in Full Stack Development 💻</h3>
   
-  ### 🚀 Full-Stack Developer | Code Alchemist | Tech Explorer
-  
-  [![Visitors](https://komarev.com/ghpvc/?username=krishna040705&label=Profile+Views&color=00FF00&style=flat-square)]()
-  [![Twitter](https://img.shields.io/twitter/follow/keertikrishnas?style=social)](https://twitter.com/keertikrishnas)
-
+  <div style="display: flex; align-items: center; justify-content: center; gap: 30px; margin-top: 10px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://api.iconify.design/noto-v1/potted-plant.svg?width=40&height=40" alt="Left Small Pot" />
+      <div>
+        [![Visitors](https://komarev.com/ghpvc/?username=krishna040705&label=Profile+Views&color=00FF00&style=flat-square)]()
+        <br/>
+        [![Twitter](https://img.shields.io/twitter/follow/keertikrishnas?style=social)](https://twitter.com/keertikrishnas)
+      </div>
+      <img src="https://api.iconify.design/noto-v1/potted-plant.svg?width=40&height=40" alt="Right Small Pot" />
+    </div>
+  </div>
 </div>
 
 ---
