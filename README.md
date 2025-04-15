@@ -30,12 +30,7 @@
 
 ---
 
-## 🛠 **Tech Galaxy**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,bootstrap,react,git,github,vscode&theme=dark" alt="Skill Icons"/>
-</p>
 
----
 
 ## 📈 **GitHub Analytics**
 <div align="center">
@@ -59,18 +54,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 </p>
 
----
 
-## 📊 Coding Stats
-<div align="center">
-  
-  | ![Stats](https://github-readme-stats.vercel.app/api?username=krishna040705&show_icons=true&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=krishna040705&theme=radical) |
-  |---|---|
-  | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna040705&layout=compact&theme=radical) | ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=krishna040705&theme=react-dark) |
-
-</div>
-
----
 
 ## 📬 Let's Connect
 <p align="center">
