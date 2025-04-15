@@ -5,12 +5,11 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=🚀+Aspiring+Full+Stack+Developer;🧠+Passionate+about+Tech+and+Innovation;👨‍💻+Building+Projects+that+Solve+Real+Problems;💡+Creative+Thinker+%7C+Problem+Solver;🌐+Exploring+the+World+of+Web+and+AI&background=0000FF00" alt="Typing SVG" />
-</div>
 
-<center>
+
   [![Visitors](https://komarev.com/ghpvc/?username=krishna040705&label=Profile+Views&color=00FF00&style=flat-square)]()
   [![Twitter](https://img.shields.io/twitter/follow/keertikrishnas?style=social)](https://twitter.com/keertikrishnas)
-</center>
+
 </div>
 
 ---
