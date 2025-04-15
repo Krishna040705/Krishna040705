@@ -14,16 +14,15 @@
 </div>
 
 ---
-## 🌟 My Projects
+## 🚀 Featured Projects
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 2rem 0;">
 
-### [![Portfolio Preview](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://skks.netlify.app/)
-  
-### [![Climate App Preview](https://img.shields.io/badge/Weather_App-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://climate25.netlify.app/)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/-✨_Portfolio-8A2BE2?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=121212)](https://skks.netlify.app/)
+
+[![Climate App](https://custom-icon-badges.demolab.com/badge/-🌦️_Climate_App-20B2AA?style=for-the-badge&logo=cloud&logoColor=white&labelColor=121212)](https://climate25.netlify.app/)
 
 </div>
-
 ## 🏆 **GitHub Trophies**
 <div align="center">
   
