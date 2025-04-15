@@ -1,25 +1,12 @@
-<h1 align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <img src="https://api.iconify.design/noto-v1/potted-plant.svg?width=50&height=50" alt="Left Flower Pot" />
-    Namaste 🙏, I'm ! 𝒦𝐸𝐸𝑅𝒯𝐼 𝒦𝑅𝐼𝒮𝐻𝒩𝒜 𝒮𝑅𝐸𝐸𝒩𝐼𝒱𝒜𝒮 𝒮
-    <img src="https://api.iconify.design/noto-v1/potted-plant.svg?width=50&height=50" alt="Right Flower Pot" />
-  </div>
-</h1>
+<h1 align="center">Namaste 🙏, I'm ! 𝒦𝐸𝐸𝑅𝒯𝐼  𝒦𝑅𝐼𝒮𝐻𝒩𝒜  𝒮𝑅𝐸𝐸𝒩𝐼𝒱𝒜𝒮 𝒮</h1>
 
 <div align="center">
-  <h3 align="center">🌱 Building My Path in Full Stack Development 💻</h3>
   
-  <div style="display: flex; align-items: center; justify-content: center; gap: 30px; margin-top: 10px;">
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://api.iconify.design/noto-v1/potted-plant.svg?width=40&height=40" alt="Left Small Pot" />
-      <div>
-        [![Visitors](https://komarev.com/ghpvc/?username=krishna040705&label=Profile+Views&color=00FF00&style=flat-square)]()
-        <br/>
-        [![Twitter](https://img.shields.io/twitter/follow/keertikrishnas?style=social)](https://twitter.com/keertikrishnas)
-      </div>
-      <img src="https://api.iconify.design/noto-v1/potted-plant.svg?width=40&height=40" alt="Right Small Pot" />
-    </div>
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Full-Stack+Developer;Code+Alchemist+%F0%9F%A7%9A%E2%99%82%EF%B8%8F;Tech+Explorer+%F0%9F%94%A7" alt="Typing SVG" />
+
+  [![Visitors](https://komarev.com/ghpvc/?username=krishna040705&label=Profile+Views&color=00FF00&style=flat-square)]()
+  [![Twitter](https://img.shields.io/twitter/follow/keertikrishnas?style=social)](https://twitter.com/keertikrishnas)
+
 </div>
 
 ---
