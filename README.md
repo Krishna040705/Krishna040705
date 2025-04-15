@@ -2,7 +2,8 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Full-Stack+Developer;Code+Alchemist+%F0%9F%A7%9A%E2%99%82%EF%B8%8F;Tech+Explorer+%F0%9F%94%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Full-Stack+Developer;Code+Alchemist+%F0%9F%A7%9A%E2%99%82%EF%B8%8F;Tech+Explorer+%F0%9F%94%A7&background=0000FF00" alt="Typing SVG" />
+
 
   [![Visitors](https://komarev.com/ghpvc/?username=krishna040705&label=Profile+Views&color=00FF00&style=flat-square)]()
   [![Twitter](https://img.shields.io/twitter/follow/keertikrishnas?style=social)](https://twitter.com/keertikrishnas)
