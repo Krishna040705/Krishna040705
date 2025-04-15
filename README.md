@@ -14,15 +14,7 @@
 </div>
 
 ---
-## 🚀 Featured Projects
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 2rem 0;">
-
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/-✨_Portfolio-8A2BE2?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=121212)](https://skks.netlify.app/)
-
-[![Climate App](https://custom-icon-badges.demolab.com/badge/-🌦️_Climate_App-20B2AA?style=for-the-badge&logo=cloud&logoColor=white&labelColor=121212)](https://climate25.netlify.app/)
-
-</div>
 ## 🏆 **GitHub Trophies**
 <div align="center">
   
