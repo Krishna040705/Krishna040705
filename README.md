@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Namaste+%F0%9F%99%8F,+I'm+Keerti+Krishna+Sreenivas+Sadasivuni" alt="Typing Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Namaste+%F0%9F%99%8F,+I'm+Keerti+Krishna+Sreenivas+Sadasivuni" alt="Typing Name" />
 </h1>
+
 
 
 <div align="center">
