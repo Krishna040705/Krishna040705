@@ -21,14 +21,33 @@
 
 ---
 
-## 🏆 GitHub Glory
+## 🏆 **GitHub Trophies**
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=krishna040705&theme=matrix&no-frame=true&column=4)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=krishna040705&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15)
 
 </div>
 
 ---
+
+## 🛠 **Tech Galaxy**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,bootstrap,react,git,github,vscode&theme=dark" alt="Skill Icons"/>
+</p>
+
+---
+
+## 📈 **GitHub Analytics**
+<div align="center">
+  
+  | ![Stats](https://github-readme-stats.vercel.app/api?username=krishna040705&show_icons=true&theme=radical&hide_border=true&include_all_commits=true) | ![Streak](https://streak-stats.demolab.com?user=krishna040705&theme=radical&hide_border=true) |
+  |---|---|
+  | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna040705&layout=compact&theme=radical&hide_border=true) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krishna040705&theme=react-dark&hide_border=true) |
+
+</div>
+
+---
+
 
 ## 💻 Tech Stack
 <p align="center">
