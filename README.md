@@ -14,16 +14,24 @@
 </div>
 
 ---
-
-## 🌟 My Creations
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/🚀_My_Portfolio-FF6B6B?style=for-the-badge&logo=netlify)](https://skks.netlify.app/)
-  [![Climate App](https://img.shields.io/badge/🌤️_Weather_App-4285F4?style=for-the-badge&logo=google-chrome)](https://climate25.netlify.app/)
-
-</div>
-
----
+## 🎨 My Creations
+<p align="center">
+  <a href="https://skks.netlify.app/">
+    <img src="https://skillicons.dev/icons?i=netlify" alt="Portfolio" title="Portfolio"/>
+    <span style="display:inline-block; width: 10px;"></span>
+    <img src="https://skillicons.dev/icons?i=react" alt="React" title="Built with React"/>
+    <span style="display:inline-block; width: 10px;"></span>
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript Powered"/>
+  </a>
+  <br/>
+  <a href="https://climate25.netlify.app/">
+    <img src="https://skillicons.dev/icons?i=chrome" alt="Weather App" title="Weather App"/>
+    <span style="display:inline-block; width: 10px;"></span>
+    <img src="https://skillicons.dev/icons?i=api" alt="API" title="Uses Weather API"/>
+    <span style="display:inline-block; width: 10px;"></span>
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap Styled"/>
+  </a>
+</p>
 
 ## 🏆 **GitHub Trophies**
 <div align="center">
