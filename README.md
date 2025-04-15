@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #0DCAF0; font-size: 2.5em;">
-  🙏 Namaste 🙏<br> I'm <span style="color: #FFFFFF;">𝙺𝙴𝙴𝚁𝚃𝙸 𝙺𝚁𝙸𝚂𝙷𝙽𝙰 𝚂𝚁𝙴𝙴𝙽𝙸𝚅𝙰𝚂 𝚂𝙰𝙳𝙰𝚂𝙸𝚅𝚄𝙽𝙸</span>
+  🙏█▓▒▒░░░ Namaste░░░▒▒▓█ 🙏<br> I'm <span style="color: #FFFFFF;">𝙺𝙴𝙴𝚁𝚃𝙸 𝙺𝚁𝙸𝚂𝙷𝙽𝙰 𝚂𝚁𝙴𝙴𝙽𝙸𝚅𝙰𝚂 𝚂𝙰𝙳𝙰𝚂𝙸𝚅𝚄𝙽𝙸</span>
 </h1>
 
 
