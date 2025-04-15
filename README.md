@@ -14,24 +14,15 @@
 </div>
 
 ---
-## 🎨 My Creations
-<p align="center">
-  <div>
-    <a href="https://skks.netlify.app/">
-      <img src="https://skillicons.dev/icons?i=netlify,react,js,html,css" alt="Portfolio Tech"/>
-      <br/>
-      <strong>Interactive Portfolio</strong>
-    </a>
-  </div>
+## 🌟 My Projects
+
+<div align="center">
+
+### [![Portfolio Preview](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://skks.netlify.app/)
   
-  <div style="margin-top: 15px;">
-    <a href="https://climate25.netlify.app/">
-      <img src="https://skillicons.dev/icons?i=chrome,api,bootstrap,js" alt="Weather App Tech"/>
-      <br/>
-      <strong>Real-Time Weather App</strong>
-    </a>
-  </div>
-</p>
+### [![Climate App Preview](https://img.shields.io/badge/Weather_App-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://climate25.netlify.app/)
+
+</div>
 
 ## 🏆 **GitHub Trophies**
 <div align="center">
