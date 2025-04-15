@@ -1,6 +1,7 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; background: -webkit-linear-gradient(90deg, #ffffff, #00bfff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-  Namaste 🙏, I'm 𝒦𝐸𝐸𝑅𝒯𝐼  𝒦𝑅𝐼𝒮𝐻𝒩𝒜  𝒮𝑅𝐸𝐸𝒩𝐼𝒱𝒜𝒮 𝒮
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Namaste+%F0%9F%99%8F,+I'm+Keerti+Krishna+Sreenivas+S" alt="Typing Name" />
 </h1>
+
 
 <div align="center">
   
